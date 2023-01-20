@@ -9,6 +9,8 @@ belows are members:
 林郁晴
 邱梓瑄
 忻緯柏
+陳冠孜
+
 
 <!-- <br> -->
 Hello World~!
